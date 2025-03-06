@@ -1,8 +1,6 @@
 package class1.ex;
 
-import java.util.MissingFormatArgumentException;
-
-public class ProductOrderMain {
+public class ProductOrderMain1 {
     public static void main(String[] args) {
         int total = 0;
         
